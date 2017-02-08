@@ -549,6 +549,7 @@
     tip_good_idea: "The best way to have a good idea is to have a lot of ideas. - Linus Pauling"
     tip_programming_not_about_computers: "Computer Science is no more about computers than astronomy is about telescopes. - Edsger Dijkstra"
     tip_mulan: "Believe you can, then you will. - Mulan"
+    tip_stuck: "If you are stuck on a problem take break. It might allow you to see a new path."
 
   play_game_dev_level:
     created_by: "Created by {{name}}"
